@@ -1,7 +1,5 @@
 package hole2;
 
-
-import hole1.Incalculable;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
